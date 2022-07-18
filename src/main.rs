@@ -19,8 +19,6 @@ fn main() {
 
         gb.display_goban();
 
-        println!("{:?}", gb.outcome());
-
         i -= 1;
     }
 }
